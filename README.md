@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 # 💫 About Me:
 Full Stack Developer with a passion for building dynamic web applications
 
